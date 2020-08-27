@@ -3,7 +3,7 @@
 
 ## Aperçu
 
-![rendu final] (https://gyazo.com/47f3433174acdaf2f8e23e42c5bea7f5.gif)
+![Alt text] (https://gyazo.com/47f3433174acdaf2f8e23e42c5bea7f5.gif)
 
 ## Reqres.in - Utilisation d'une API REST hébergée prête à répondre aux requêtes AJAX
 
