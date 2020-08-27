@@ -1,6 +1,10 @@
 
 # Réalisation d'une page de connexion en utilisant React
 
+## Aperçu
+
+![rendu final] (https://gyazo.com/47f3433174acdaf2f8e23e42c5bea7f5)
+
 ## Reqres.in - Utilisation d'une API REST hébergée prête à répondre aux requêtes AJAX
 
 Request - POST - LOGIN SUCCESSFUL
