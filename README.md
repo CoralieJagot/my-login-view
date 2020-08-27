@@ -2,14 +2,20 @@
 # Réalisation d'une page de connexion en utilisant React
 
 ## Reqres.in - Utilisation d'une API REST hébergée prête à répondre aux requêtes AJAX
+
 Request - POST - LOGIN SUCCESSFUL
+
 https://reqres.in/api/login
+
 Use this mail and password for login sucessful:
+
 {
     "email": "eve.holt@reqres.in",
     "password": "cityslicka"
 }
+
 Response - 200
+
 {
     "token": "QpwL5tke4Pnpja7X4"
 }
